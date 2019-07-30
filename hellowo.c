@@ -1,4 +1,4 @@
-include<stdoi.h>
+#include<stdoi.h>
 void main()
 { 
    printf("hello world..!!");
